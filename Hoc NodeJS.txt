@@ -1,0 +1,8 @@
+1. Cai dat Nodejs
+2. Cai dat Git Scm
+3. Tạo Project:
+- Phai chuot len thu muc -> Git bash here
+- $ npm init
+4. Cài gói express (render trong nodejs), ejs (template engine)
+
+- $ npm install express ejs
