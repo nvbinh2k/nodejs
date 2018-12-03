@@ -5,4 +5,4 @@
 - $ npm init
 4. Cài gói express (render trong nodejs), ejs (template engine)
 
-- $ npm install express ejs
+- $ npm install express ejs.
